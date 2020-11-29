@@ -1,0 +1,11 @@
+C:\Vishal\Demo\Demo.Core\bin\Debug\net5.0\Demo.Core.deps.json
+C:\Vishal\Demo\Demo.Core\bin\Debug\net5.0\Demo.Core.dll
+C:\Vishal\Demo\Demo.Core\bin\Debug\net5.0\ref\Demo.Core.dll
+C:\Vishal\Demo\Demo.Core\bin\Debug\net5.0\Demo.Core.pdb
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.AssemblyInfoInputs.cache
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.AssemblyInfo.cs
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.csproj.CoreCompileInputs.cache
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.dll
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\ref\Demo.Core.dll
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.pdb

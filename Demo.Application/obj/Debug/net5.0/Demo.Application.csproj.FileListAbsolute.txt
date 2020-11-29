@@ -1,0 +1,15 @@
+C:\Vishal\Demo\Demo.Application\bin\Debug\net5.0\Demo.Application.deps.json
+C:\Vishal\Demo\Demo.Application\bin\Debug\net5.0\Demo.Application.dll
+C:\Vishal\Demo\Demo.Application\bin\Debug\net5.0\ref\Demo.Application.dll
+C:\Vishal\Demo\Demo.Application\bin\Debug\net5.0\Demo.Application.pdb
+C:\Vishal\Demo\Demo.Application\bin\Debug\net5.0\Demo.Core.dll
+C:\Vishal\Demo\Demo.Application\bin\Debug\net5.0\Demo.Core.pdb
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.csprojAssemblyReference.cache
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.AssemblyInfoInputs.cache
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.AssemblyInfo.cs
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.csproj.CoreCompileInputs.cache
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.csproj.CopyComplete
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.dll
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\ref\Demo.Application.dll
+C:\Vishal\Demo\Demo.Application\obj\Debug\net5.0\Demo.Application.pdb

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Demo.UI.ViewModels.ProductViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Product List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+    <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">UnitPrice</th>
+        <th scope="col">Category</th>
+        <th scope="col">Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <th scope="row">@product.ProductId</th>
+            <td>@product.ProductName</td>
+            <td>@product.UnitPrice</td>
+            <td>@product.Category.CategoryName</td>
+            <td>
+                <a class="btn"
+                   asp-action="Details"
+                   asp-route-id="@product.ProductId">
+                    Details
+                </a>
+                <a class="btn"
+                   asp-action="Edit"
+                   asp-route-id="@product.ProductId">
+                    Edit
+                </a>
+                <a class="btn"
+                   asp-action="Delete"
+                   asp-route-id="@product.ProductId">
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

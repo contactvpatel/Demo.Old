@@ -1,0 +1,56 @@
+2020-11-28 21:28:09.1146 Demo.UI.Program Seed Data
+2020-11-28 21:28:10.1059 Demo.UI.Program Starting web host
+2020-11-28 21:28:10.6631 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2020-11-28 21:28:10.6631 Microsoft.Hosting.Lifetime Hosting environment: Development
+2020-11-28 21:28:10.6798 Microsoft.Hosting.Lifetime Content root path: C:\Vishal\Demo\Demo.UI
+2020-11-28 21:28:10.8643 Demo.UI.Controllers.HomeController Load Home Page
+2020-11-28 21:28:10.8737 Demo.Common.Filters.TrackActionPerformanceFilter / GET code took 83 Milliseconds.
+2020-11-28 21:28:17.7291 Demo.UI.Controllers.HomeController Load Home Page
+2020-11-28 21:28:17.7291 Demo.Common.Filters.TrackActionPerformanceFilter / GET code took 41 Milliseconds.
+2020-11-28 21:28:18.7362 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:28:19.1693 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 465 Milliseconds.
+2020-11-28 21:28:20.3518 Demo.UI.Controllers.CategoryController Get Categories
+2020-11-28 21:28:20.3518 Demo.Application.Services.CategoryService Get Categories
+2020-11-28 21:28:20.4236 Demo.Common.Filters.TrackActionPerformanceFilter /Category GET code took 106 Milliseconds.
+2020-11-28 21:28:21.9356 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:28:21.9499 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 57 Milliseconds.
+2020-11-28 21:28:23.1158 Demo.Application.Services.CategoryService Get Categories
+2020-11-28 21:28:23.1158 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Create GET code took 51 Milliseconds.
+2020-11-28 21:28:44.3500 Demo.Application.Services.ProductService Entity successfully added.
+2020-11-28 21:28:44.3708 Demo.UI.Services.ProductService Entity successfully added - HomeService
+2020-11-28 21:28:44.4039 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Create POST code took 183 Milliseconds.
+2020-11-28 21:28:44.4444 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:28:44.4444 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 33 Milliseconds.
+2020-11-28 21:28:47.8244 Demo.UI.Controllers.ProductController Get Product By Id: 4
+2020-11-28 21:28:47.8356 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Details/4 GET code took 44 Milliseconds.
+2020-11-28 21:28:49.5487 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:28:49.5559 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 38 Milliseconds.
+2020-11-28 21:28:50.6330 Demo.UI.Controllers.ProductController Get Product By Id: 4
+2020-11-28 21:28:50.6330 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Details/4 GET code took 40 Milliseconds.
+2020-11-28 21:28:52.0154 Demo.UI.Controllers.ProductController Get Product By Id: 4
+2020-11-28 21:28:52.0154 Demo.Application.Services.CategoryService Get Categories
+2020-11-28 21:28:52.0266 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Edit/4 GET code took 46 Milliseconds.
+2020-11-28 21:28:56.6552 Demo.Application.Services.ProductService Entity successfully updated.
+2020-11-28 21:28:56.6552 Demo.UI.Services.ProductService Entity successfully added - HomeService
+2020-11-28 21:28:56.6641 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Edit/4 POST code took 62 Milliseconds.
+2020-11-28 21:28:56.7070 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:28:56.7124 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 36 Milliseconds.
+2020-11-28 21:28:58.6157 Demo.Application.Services.ProductService Entity successfully deleted.
+2020-11-28 21:28:58.6157 Demo.UI.Services.ProductService Entity successfully added - HomeService
+2020-11-28 21:28:58.6157 Demo.Common.Filters.TrackActionPerformanceFilter /Product/Delete/4 GET code took 67 Milliseconds.
+2020-11-28 21:28:58.6611 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:28:58.6675 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 30 Milliseconds.
+2020-11-28 21:31:53.7308 Demo.UI.Program Seed Data
+2020-11-28 21:31:54.7150 Demo.UI.Program Starting web host
+2020-11-28 21:31:55.2968 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2020-11-28 21:31:55.2968 Microsoft.Hosting.Lifetime Hosting environment: Development
+2020-11-28 21:31:55.3036 Microsoft.Hosting.Lifetime Content root path: C:\Vishal\Demo\Demo.UI
+2020-11-28 21:31:55.4349 Demo.UI.Controllers.HomeController Load Home Page
+2020-11-28 21:31:55.4451 Demo.Common.Filters.TrackActionPerformanceFilter / GET code took 71 Milliseconds.
+2020-11-28 21:31:57.9597 Demo.UI.Controllers.HomeController Load Home Page
+2020-11-28 21:31:57.9597 Demo.Common.Filters.TrackActionPerformanceFilter / GET code took 37 Milliseconds.
+2020-11-28 21:31:58.9166 Demo.UI.Controllers.ProductController Get Products
+2020-11-28 21:31:59.3491 Demo.Common.Filters.TrackActionPerformanceFilter /Product GET code took 460 Milliseconds.
+2020-11-28 21:32:00.3415 Demo.UI.Controllers.CategoryController Get Categories
+2020-11-28 21:32:00.3507 Demo.Application.Services.CategoryService Get Categories
+2020-11-28 21:32:00.4133 Demo.Common.Filters.TrackActionPerformanceFilter /Category GET code took 107 Milliseconds.
