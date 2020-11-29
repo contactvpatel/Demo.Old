@@ -9,3 +9,4 @@ C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.csproj.CoreCompileInputs.cac
 C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.dll
 C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\ref\Demo.Core.dll
 C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.pdb
+C:\Vishal\Demo\Demo.Core\obj\Debug\net5.0\Demo.Core.csprojAssemblyReference.cache
